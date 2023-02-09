@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app-head {
+  list-style-type: none;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 200px;
+  height: 150px;
+}
+.name {
+  color: #1e293b;
+  font-size: 15px;
+}
+.image {
+  width: 50px;
+  height: 50px;
+}
